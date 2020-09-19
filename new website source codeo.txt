@@ -1,0 +1,2813 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Core Banking and Nidhi software | Finance, Loan and Microfinance software | Chit
+        Fund software | MLM Software</title>
+    <meta name="Description" content="Websoftex pioneer & market leaders and offers end-to-end software & customized Solutions and support services  to Banking, Nidhi, Finance, Chit Fund and MLM Company." />
+    <meta name="keywords" content="banking software, Nidhi software, Finance, Loan, Microfinance software Chit Fund software, MLM Software in India, Bangalore, Mumbai, Pune " />
+    <meta name="language" content="ENGLISH" />
+    <meta name="product_brand_name" content="Banking software, Nidhi software, MLM Software, Loan and  Microfinance software, Chit Fund software" />
+    <meta name="product_family" content="Internet" />
+    <meta name="abstract" content="www.websoftex.com" />
+    <meta name="region" content="GLOBAL" />
+    <meta name="distribution" content="Global" />
+    <meta name="revisit-after" content="5 days" />
+    <meta name="copyright" content="Websoftex - India, 2007 -2018" />
+    <meta name="author" content="Websoftex" />
+    <meta name="robots" content="All" />
+    <meta name="rating" content="General" />
+    <meta http-equiv="Content-Language" content="en-us" />
+    <meta name="google-site-verification" content="6HlEwGDFqvqsdUyrBhWOOLbknWsy1lA6H7mhIQGDYgw" />
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-2093443-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+   
+    </script>
+    <!-- Favicon icon -->
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
+    <!-- BootstrapCore CSS -->
+    <link href="assets/node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+ 
+
+    <!-- This is for the animation CSS -->
+    <link href="assets/node_modules/aos/dist/aos.css" rel="stylesheet">
+    <!-- This page CSS -->
+    <link href="assets/icons/iconmind/iconmind.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" type="text/css" href="newcss/team.css">
+   
+    <link href="assets/node_modules/owl.carousel/dist/assets/owl.theme.green.css" rel="stylesheet">
+    <link href="assets/node_modules/bootstrap-touch-slider/bootstrap-touch-slider.css"
+        rel="stylesheet" media="all">
+    <!-- Common style CSS -->
+	<link rel="stylesheet" type="text/css" href="newcss/style.css">
+   
+    <!-- This css we made it from our predefine componenet 
+    we just copy that css and paste here you can also do that -->
+	<link rel="stylesheet" type="text/css" href="newcss/yourstyle.css">
+	<link rel="stylesheet" type="text/css" href="newcss/demo.css">
+   
+    <link href="assets/icons/themify-icons/themify-icons.css" rel="stylesheet" type="text/css" />
+    <link href="assets/icons/simple-line-icons/css/simple-line-icons.css" rel="stylesheet"
+        type="text/css" />
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queies -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Anton|Bree+Serif" rel="stylesheet">
+
+    <style>
+        .thumbnail
+        {
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .caption
+        {
+            position: absolute;
+            top: -100%;
+            right: 0;
+            background: rgba(66, 139, 202, 0.75);
+            width: 100%;
+            height: 100%;
+            padding: 2%;
+            text-align: center;
+            color: #fff !important;
+            z-index: 2;
+            -webkit-transition: all 0.5s ease-in-out;
+            -moz-transition: all 0.5s ease-in-out;
+            -o-transition: all 0.5s ease-in-out;
+            -ms-transition: all 0.5s ease-in-out;
+            transition: all 0.5s ease-in-out;
+        }
+        .thumbnail:hover .caption
+        {
+            top: 0%;
+        }
+        
+        body
+        {
+            position: relative;
+        }
+        #section1
+        {
+            padding-top: 50px;
+            height: auto;
+            color: #fff;
+            background-color: #1E88E5;
+        }
+        #section2
+        {
+            padding-top: 50px;
+            height: auto;
+            color: #fff;
+            background-color: #673ab7;
+        }
+        #section3
+        {
+            padding-top: 50px;
+            height: auto;
+            color: #fff;
+            background-color: #ff9800;
+        }
+        #section41
+        {
+            padding-top: 50px;
+            height: auto;
+            color: #fff;
+            background-color: #00bcd4;
+        }
+        #section42
+        {
+            padding-top: 50px;
+            height: auto;
+            color: #fff;
+            background-color: #009688;
+        }
+
+		/*blinking start*/
+
+		blink {
+    -webkit-animation: 3s linear infinite condemned_blink_effect; // for android
+    animation: 3s linear infinite condemned_blink_effect;
+}
+@-webkit-keyframes condemned_blink_effect { // for android
+    0% {
+        visibility: hidden;
+    }
+    50% {
+        visibility: hidden;
+    }
+    100% {
+        visibility: visible;
+    }
+}
+@keyframes condemned_blink_effect {
+    0% {
+        visibility: hidden;
+    }
+    50% {
+        visibility: hidden;
+    }
+    100% {
+        visibility: visible;
+    }
+}
+    </style>
+<!--modalpopup-->
+	<style>
+       hr {
+	opacity: 0.3;
+	border-color: #000;
+}
+
+#css-only-modals {
+	position: fixed;
+	pointer-events: none;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 10000000;
+	text-align: center;
+	white-space: nowrap;
+	height: 100%;
+	
+}
+
+#css-only-modals:before {
+	content: '';
+	display: inline-block;
+	height: 100%;
+	vertical-align: middle;
+	margin-right: -0.25em;
+}
+
+.css-only-modal-check {
+	pointer-events: auto;
+}
+
+.css-only-modal-check:checked ~ .css-only-modal {
+	opacity: 1;
+	pointer-events: auto;
+}
+
+.css-only-modal {
+	width: 40%;
+	background: #FFF;
+	z-index: 1;
+	display: inline-block;
+	position: relative;
+	pointer-events: auto;
+	padding: 25px;
+	text-align: right;
+	border-radius: 4px;
+	white-space: normal;
+	display: inline-block;
+	vertical-align: middle;
+	opacity: 0;
+	pointer-events: none;
+	width:600px;
+	height:500px;
+	overflow:scroll;
+}
+@media screen and (max-width: 640px)
+{
+    .css-only-modal {
+	width: 320px;
+	background: #FFF;
+	z-index: 1;
+	display: inline-block;
+	position: relative;
+	pointer-events: auto;
+	padding: 25px;
+	text-align: right;
+	border-radius: 4px;
+	white-space: normal;
+	display: inline-block;
+	vertical-align: middle;
+	opacity: 0;
+	pointer-events: none;
+	height:500px;
+	overflow:scroll;
+}
+      
+}
+.css-only-modal h2 {
+	text-align: center;
+}
+
+.css-only-modal p {
+	text-align: left;
+}
+
+.css-only-modal-close {
+	position: absolute;
+	top: 25px;
+	right: 25px;
+}
+
+.css-only-modal-check {
+	display: none;
+}
+
+.css-only-modal-check:checked ~ #screen-shade {
+	opacity: 0.5;
+	pointer-events: auto;
+}
+
+#screen-shade {
+	opacity: 0;
+	background: #000;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	pointer-events: none;
+	transition: opacity 0.8s;
+}
+
+.stripe > .container > p,
+.stripe > .container > ul {
+	text-align: left;
+	padding: 35px;
+	margin: 0;
+}
+
+.stripe > .container > hr {
+	margin: 50px 0;
+}
+
+#nav-spacer {
+	display: block;
+	/*height: 50px;*/
+}
+
+.stripe {
+	width: 100%;
+	text-align: center;
+	overflow: hidden;
+}
+
+.default {
+	color: White;
+	background: DarkCyan;
+}
+
+.inverse {
+	color: DarkCyan;
+	background: White;
+}
+
+.grey {
+	color: White;
+	background: DimGrey;
+}
+
+.grey-light {
+	color: DimGrey;
+	background: White;
+}
+
+.color {
+	color: DarkOrange;
+}
+   </style>
+   <!--modalpopup-->
+</head>
+<body>
+<!--modalpopup-->
+<!--<div id="nav-spacer"></div>
+
+<div id="css-only-modals">
+	<input id="modal1" class="css-only-modal-check" type="checkbox" checked/>
+	<div class="css-only-modal">
+		<label for="modal1" class="css-only-modal-close"><i class="fa fa-times fa-2x"></i></label>
+		
+        <img class="img-responsive" src="images/new-year.jpg" />
+		
+		
+		
+	</div>
+<div id="screen-shade"></div>
+</div>-->
+<!--modalpopup-->
+
+    <!-- ============================================================== -->
+    <!-- Preloader - style you can find in spinners.css -->
+    <!-- ============================================================== -->
+      <div class="preloader">
+        <div class="loader">
+            <div class="loader__figure">            </div>
+            <p class="loader__label">
+                Websoftex</p>
+        </div>
+    </div>
+    <!-- ============================================================== -->
+    <!-- Main wrapper - style you can find in pages.scss -->
+    <!-- ============================================================== -->
+    <div id="main-wrapper">
+        <!-- ============================================================== -->
+        <!-- Top header  -->
+        <!-- ============================================================== -->
+
+        <!--header-menu-->
+
+         <div class="topbar">
+  <!-- ============================================================== -->
+  <!-- Header 4  -->
+  <!-- ============================================================== -->
+  <div class="header4 po-relative">
+    <div class="h4-topbar">
+      <div class="container">
+        <nav class="navbar navbar-expand-lg h4-nav">
+          <a class="hidden-lg-up">Navigation</a>
+          <button class="navbar-toggler text-white" type="button" data-toggle="collapse" data-target="#header4" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="ti-menu"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="header4">
+            <div class="hover-dropdown">
+              <ul class="navbar-nav">
+                <li class="nav-item dropdown mega-dropdown active">
+                  <a  class="nav-link" href="index.php" id="A4"  aria-haspopup="true" aria-expanded="false">
+                    <i  class="fa fa-home m-l-5"></i>  HOME
+                  </a>
+                </li>
+
+
+
+                <li class="nav-item dropdown mega-dropdown">
+                  <a class="nav-link dropdown-toggle" href="about_us.php" id="A1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    ABOUT US  <i class="fa fa-angle-down m-l-5"></i>
+                  </a>
+                  <div class="dropdown-menu b-none font-14 animated fadeInUp" aria-labelledby="h6-mega-dropdown1">
+                    <div class="row">
+                      <div class="col-lg-1 inside-bg hidden-md-down">
+                        <div class="bg-img" style="background-color: #0995f8;">
+                          <h3 class="text-white font-light"></h3>
+                        </div>
+                      </div>
+                      <div class="col-lg-2 col-md-4">
+                        <ul class="list-style-none">
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="about_us.php" target="_blank">About Us</a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg-2 col-md-4">
+                        <ul class="list-style-none">
+
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="legal_documents.php" target="_blank">Legal Documents</a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+
+                      <div class="col-lg-2 col-md-4">
+                        <ul class="list-style-none">
+
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="Microfinance-testimonials.php" target="_blank"></a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+
+
+                      <div class="col-lg-2 col-md-6">
+                        <ul class="list-style-none">
+
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="chitfund-testimonials.php" target="_blank"></a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg-3 col-md-6">
+                        <ul class="list-style-none">
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="mlm-testimonials.php" target="_blank"></a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+
+
+
+
+
+                <li class="nav-item dropdown mega-dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="h6-mega-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Services <i class="fa fa-angle-down m-l-5"></i>
+                  </a>
+                  <div class="dropdown-menu b-none font-14 animated fadeInUp" aria-labelledby="h6-mega-dropdown">
+                    <div class="row">
+                      <div class="col-lg-1 inside-bg hidden-md-down">
+                        <div class="bg-img" style="background:#0995f8;padding: 16px;">
+                          <h3 class="text-white font-light">                                                            </h3>
+                        </div>
+                      </div>
+                      <div class="col-lg-3 col-md-6">
+                        <ul class="list-style-none">
+                          <li>
+                            <h2 class="h2-menu">DEVELOPMENT</h2>
+                          </li>
+                          <li>
+                            <a href="mlm-services.php" target="_blank">
+                              <h3 class="h3-submenuline">
+                                <i class="fa fa-angle-right"></i> MLM (Network Marketing)
+                              </h3>
+                            </a>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="nidhi-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Nidhi Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="banking-sector-service.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Banking Sector
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="finance-sector-service.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Finance Sector
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="chit-fund-sector-service.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Chit Fund Sector
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="printing-sector-service.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Printing Sector
+                              </a>
+                              </h1>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="transportation-sector-service.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Transportation Sector
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="real-estate-sector-service.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Real Estate Sector
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="custom-portal-development.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Custom Portal Development
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="Android-Apps-Development.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Mobile Apps
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="#" target="_blank">
+                                <i class="fa fa-angle-right"></i> E-commerce
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="facebook-apps-development.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Facebook Apps Development
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="Google-Apps-Development.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Google Apps Development
+                              </a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg-3 col-md-6">
+                        <ul class="list-style-none">
+                          <li>
+                            <h2 class="h2-menu"> WEBSITE DESIGN </h2>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="corporate-website-design.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Corporate website design
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="e-commerce-website-design.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> E-commerce website Design
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="web-content-management-system.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> web content management system (WCMS)
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="responsive-mobile-website-design .php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Responsive Mobile website design
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="#" target="_blank">
+                                <i class="fa fa-angle-right"></i> Portal Website Design
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="wordpress-website-design .php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Wordpress Website Design
+                              </a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg-3 col-md-6">
+                        <ul class="list-style-none">
+                          <li>
+                            <h2 class="h2-menu"> SEO SERVICES</h2>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="Search-Engine-Optimization.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Search Engine Optimization
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="Social-Media-Marketing.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Social Media Marketing
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="PPC-Management.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> PPC Management
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="#" target="_blank">
+                                <i class="fa fa-angle-right"></i> Product Branding
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="SEO-Consulting.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> SEO Consulting
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a class="text-muted" target="_blank" >
+                                <i class="fa fa-angle-right"></i> Google adwords
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a class="text-muted"  target="_blank">
+                                <i class="fa fa-angle-right"></i> Facebook marketing
+                              </a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg-2 col-md-6">
+                        <ul class="list-style-none">
+                          <li>
+                            <h2 class="h2-menu"> WEB HOSTING</h2>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="Unlimited-Windows.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Windows Hosting
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="Unlimited-Linux.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Linux Hosting
+                              </a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="nav-item dropdown mega-dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="h6-mega-dropdown1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Product <i class="fa fa-angle-down m-l-5"></i>
+                  </a>
+                  <div class="dropdown-menu b-none font-14 animated fadeInUp" aria-labelledby="h6-mega-dropdown1">
+                    <div class="row">
+                      <div class="col-lg-1 inside-bg hidden-md-down">
+                        <div class="bg-img" style="background-color: #0995f8;">
+                          <h3 class="text-white font-light"></h3>
+                        </div>
+                      </div>
+                      <div class="col-lg-3 col-md-4">
+                        <ul class="list-style-none">
+                          <li>
+                            <h2 class="h2-menu"> MLM Software</h2>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="mlm-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> MLM Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/binary-plan-mlm.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Binary Plan
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/matrix-plan-mlm.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Matrix Plan
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="board-plan.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Board Plan
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/unilevel-plan-mlm.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Unilevel Plan
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/sunflower-plan-mlm.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Sunflower Plan
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/generation-plan-mlm.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Generation/Career Income Plan
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/repurchase-mlm-plan.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> E-commerce with Repurchase Plan
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/mlm-software-for-real-estate.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> MLM Software for Real Estate
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/mlm-software-for-land-developers.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> MLM Software for Land Developers
+                              </a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg-3 col-md-4">
+                        <ul class="list-style-none">
+                          <li>
+                            <h2 class="h2-menu"> Banking Software</h2>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/core-banking-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Core Banking Software (CBS)
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/co-operative-banking-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Co-operative Banking Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/nidhi-banking-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Nidhi Company Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/producer-company-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Producer Company Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/rd-fd-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Real Estate RD FD Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="http://pigmypro.com/" target="_blank">
+                                <i class="fa fa-angle-right"></i> Pigmy Software
+                              </a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg-3 col-md-6">
+                        <ul class="list-style-none">
+                          <li>
+                            <h2 class="h2-menu"> Microfinance Software</h2>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/nbfc-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> NBFC Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/money-lending-loan-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Loan Management Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/shg-microfinance-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> SHG / JLG Micro Finance Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/gold-loan-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Gold Loan Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/auto-loan-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Auto / Vehicle Loan software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/housing-loan-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Housing Loan Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/mortgage-loan-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Mortgage / Girvi Loan Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/hire-purchase-loan-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Hire Purchase Loan Software
+                              </a>
+                            </h3>
+                          </li>
+
+                          <li>
+                            <h2 class="h2-menu">Chit Fund Software</h2>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/chitfund-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Chit Fund / Committe Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/kitty-luckey-draw-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Kitty / Luckey Draw Software
+                              </a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg-2 col-md-6">
+                        <ul class="list-style-none">
+                          <li>
+                            <h2 class="h2-menu"> Booking Software</h2>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/taxi-booking-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Taxi Booking Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/truck-booking-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Truck Booking Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/hotel-booking-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Hotel Booking Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h2 class="h2-menu">CRM Software</h2>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/crm-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> CRM Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/loan-crm-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i>  Loan CRM Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="development/real-estate-crm-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Real Estate CRM Software
+                              </a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h2 class="h2-menu"> Account Software</h2>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="accounting-software.php" target="_blank">
+                                <i class="fa fa-angle-right"></i> Account Software
+                              </a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="nav-item dropdown mega-dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="A1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    PORTFOLIO <i class="fa fa-angle-down m-l-5"></i>
+                  </a>
+                  <div class="dropdown-menu b-none font-14 animated fadeInUp" aria-labelledby="h6-mega-dropdown1">
+                    <div class="row">
+                      <div class="col-lg-1 inside-bg hidden-md-down">
+                        <div class="bg-img" style="background-color: #0995f8;">
+                          <h3 class="text-white font-light"></h3>
+                        </div>
+                      </div>
+                      <div class="col-lg-2 col-md-4">
+                        <ul class="list-style-none">
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="banking-testimonials.php" target="_blank">Banking Software</a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg-2 col-md-4">
+                        <ul class="list-style-none">
+
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="nidhi-testimonials.php" target="_blank">Nidhi Software</a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+
+                      <div class="col-lg-2 col-md-4">
+                        <ul class="list-style-none">
+
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="Microfinance-testimonials.php" target="_blank">Microfinance Software</a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+
+
+                      <div class="col-lg-2 col-md-6">
+                        <ul class="list-style-none">
+
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="chitfund-testimonials.php" target="_blank">Chitfund Software</a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg-3 col-md-6">
+                        <ul class="list-style-none">
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="mlm-testimonials.php" target="_blank">MLM Software</a>
+                            </h3>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="nav-item dropdown mega-dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="A2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Resources <i class="fa fa-angle-down m-l-5"></i>
+                  </a>
+                  <div class="dropdown-menu b-none font-14 animated fadeInUp" aria-labelledby="h6-mega-dropdown1">
+                    <div class="row">
+                      <div class="col-lg-1 inside-bg hidden-md-down">
+                        <div class="bg-img" style="background-color: #0995f8;">
+                          <h3 class="text-white font-light"></h3>
+                        </div>
+                      </div>
+                      <div class="col-lg-2 col-md-4">
+                        <ul class="list-style-none">
+                          <li>
+                            <h2 class="h2-menu"> Media</h2>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="#" target="_blank">Blog</a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="#" target="_blank">News</a>
+                            </h3>
+                          </li>
+                          <li>
+                            <h3 class="h3-submenuline">
+                              <a href="resoures.php" target="_blank">Resources</a>
+                            </h3>
+                          </li>
+
+                        </ul>
+                      </div>
+                      <div class="col-lg-2 col-md-4">
+                        <ul class="list-style-none">
+                        </ul>
+                      </div>
+                      <div class="col-lg-2 col-md-6">
+                        <ul class="list-style-none">
+                        </ul>
+                      </div>
+                      <div class="col-lg-3 col-md-6">
+                        <ul class="list-style-none">
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+
+
+
+                <li class="nav-item dropdown mega-dropdown">
+                  <a  class="nav-link" href="#" id="A6"  aria-haspopup="true" aria-expanded="false"> CAREER  </a>
+                </li>
+
+
+                <li class="nav-item dropdown mega-dropdown">
+                  <a  class="nav-link" href="partners/join_partners.php" id="A6"  aria-haspopup="true" aria-expanded="false"> PARTNERS  </a>
+                </li>
+
+
+
+                <li class="nav-item dropdown mega-dropdown">
+                  <a class="nav-link dropdown-toggle" href="contact.php" id="A3" aria-haspopup="true" aria-expanded="false">
+                    Contact us <i class="fa fa-angle-down m-l-5"></i>
+                  </a>
+                  <div class="dropdown-menu b-none font-14 animated fadeInUp" aria-labelledby="h6-mega-dropdown1">
+                    <div class="row">
+                      <div class="col-lg-1 inside-bg hidden-md-down">
+                        <div class="bg-img" style="background-color: #0995f8;">
+                          <h3 class="text-white font-light"></h3>
+                        </div>
+                      </div>
+                      <div class="col-lg-4 col-md-4">
+                        <ul class="list-style-none">
+                          <li>
+                            <h2 class="h2-menu">Corporate Office</h2>
+                          </li>
+                          <p style="color: #3b3939;font-family: roboto;font-weight: 300;font-size: 15px;">
+                            Websoftex Software Solutions Pvt. Ltd.<br>
+                              #240/A, 3rd Cross, Gokula 1st,<br>
+                                Stage, 1st Phase Mathikere,  <br>
+                                  Bangalore - 560 054,  <br>
+                                    Karnataka, India.
+                          </p>
+                        </ul>
+                      </div>
+                      <div class="col-lg-3 col-md-4">
+                        <ul class="list-style-none">
+                          <li>
+                            <h2 class="h2-menu">Call Us at</h2>
+                          </li>
+                          <li>
+                            <a href="#"> IND - +91 98864-61360 (Sales)</a>
+                          </li>
+                          <li>
+                            <a href="#">IND - +91 9765-988588 (Sales)</a>
+                          </li>
+                          <!--<li>
+                            <a href="#">IND - +91 080-65465475 (Office)</a>
+                          </li>-->
+                          <li>
+                            <a href="#">IND - +91 080-23375399 (HR)</a>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg-2 col-md-6">
+                        <ul class="list-style-none">
+                          <li>
+                            <h2 class="h2-menu">Email Us @</h2>
+                          </li>
+                          <p>
+                            Let's Talk Business<br />
+                            <a href="mailto:sales@websoftex.com">sales@websoftex.com</a>
+                          </p>
+                          <p>
+                            General Equiries<br />
+                            <a href="mailto:info@websoftex.in">info@websoftex.com                                                          </a>
+                          </p>
+                          <p>
+                            For Hiring<br />
+                            <a href="mailto:jobs@websoftex.com">jobs@websoftex.com</a>
+                          </p>
+                        </ul>
+                      </div>
+                      <div class="col-lg-2 col-md-6">
+                        <ul class="list-style-none">
+                          <li>
+                            <h2 class="h2-menu">Query</h2>
+                          </li>
+                          <p>
+                            <img src="images/websoftex-skype.png" />
+                            <br />
+                            <a href="#">websoftex</a>
+                          </p>
+                          <li>
+                            <a href="#">
+                              <img src="images/websoftex-whatsapp.png" />
+                            </a>
+                          </li>
+
+
+                          <p>
+                            <a href="tel:+91-9886461360" data-rel="external" target="_blank" style="color:#0C8C0C;">9886461360</a>
+                          </p>
+
+                          <li>
+                            <a href="contact.php">Submit your query </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <!-- <ul class="navbar-nav ml-auto">
+                                    <li class="nav-item search dropdown"><a class="nav-link dropdown-toggle" href="javascript:void(0)" id="h4-sdropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-search"></i></a>
+                                        <div class="dropdown-menu b-none dropdown-menu-right animated fadeInDown" aria-labelledby="h4-sdropdown">
+                                            <input class="form-control" type="text" placeholder="Type & hit enter" />
+                                        </div>
+                                    </li>
+                                </ul>-->
+          </div>
+        </nav>
+      </div>
+    </div>
+    <div class="h4-navbar">
+      <div class="container">
+        <nav class="navbar navbar-expand-lg h4-nav-bar" style="padding: 0px 0px;">
+          <a href="index.php" class="navbar-brand">
+            <img src="images/logo.png" alt="logo"/>
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#h4-info" aria-controls="h4-info" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="sl-icon-options-vertical"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="h4-info">
+            <ul class="navbar-nav ml-auto text-uppercase">
+              <li class="nav-item">
+                <a class="nav-link b-r">
+                  <div class="display-6 m-r-10">
+                    <i class="icon-Mail"></i>
+                  </div>
+                  <div  class="text-color" style="font-size:15px;">
+                    <small>Email us at</small>
+                    <h6 class="font-bold font-14">info@websoftex.com</h6>
+                  </div>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link">
+                  <div class="display-6 m-r-10">
+                    <i class="icon-Phone-2"></i>
+                  </div>
+                  <div class="text-color" style="font-size:15px;">
+                    <small>CALL US NOW</small>
+                    <h6 class="font-bold ">+91 - 9886461360</h6>
+                  </div>
+                </a>
+              </li>
+              <!--  <li class="nav-item donate-btn"><a href="#" class="btn btn-outline-danger">Net Banking</a></li>-->
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </div>
+</div>         
+         <!--header-menu-->
+           
+        <div class="page-wrapper">
+            <div class="container-fluid">
+                <!-- Banner -->
+                <!-- ============================================================== -->
+                <div class="bg-light">
+        <section id="slider-sec" class="slider4">
+      
+        <div id="slider4" class="carousel bs-slider slide  control-round indicators-line" >
+            <ol class="carousel-indicators">
+                <li data-target="#slider4" data-slide-to="0" class="active"></li>
+                <li data-target="#slider4" data-slide-to="1"></li>
+                <li data-target="#slider4" data-slide-to="2"></li>
+                <li data-target="#slider4" data-slide-to="3"></li>
+                <li data-target="#slider4" data-slide-to="4"></li>
+            </ol>
+            <!-- Wrapper For Slides -->
+            <div class="carousel-inner" role="listbox">
+                <div class="carousel-item active">
+                    <!-- Slide Background --><img src="images/slider/slidertt.jpg" alt="Co-Operative Bank" class="slide-image" />
+                    <!-- Slide Text Layer -->
+                    <div class="slide-text slide_style_left">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-9 col-lg-7">
+                                <br />
+                                    <label class="font-20" data-animation="animated fadeInDown">Our Banking Software's</label>
+                                   <br />
+                                    <h1 data-animation="animated fadeInLeft" class="title font-bold m-0 p-b-40">
+                                    <span class="word">&ensp;Nidhi&ensp;Banking&ensp;Software</span> 
+									<span class="word">&ensp;Core&ensp;Banking&ensp;Software</span>                               
+                                    <span class="word">&ensp;Co-Operative&ensp;Bank&ensp;Software</span>
+                                    <span class="word">&ensp;Chit&ensp;Fund&ensp;Software</span>
+                                    <span class="word">&ensp;NBFC&ensp;And&ensp;Microfinance&ensp;Software</span>
+									<span class="word">&ensp;MLM&ensp;Software</span>									</h1>
+                                   
+                                   <ul class="p-0 m-b-40 hidden-sm-down" data-animation="animated fadeInUp">
+                                        <li><i class="sl-icon-check text-primary m-r-15"></i> Websoftex Banking software used By more then <span style="font-weight:500;padding: 2px 10px;font-family:roboto;font-size:19px;background:#f44e18;border-radius:2px;">300+</span> co-operative society</li>
+                                        <li><i class="sl-icon-check text-primary m-r-15"></i> Make your site in no-time with your Bootstrap WrapKit</li>
+                                        <li><i class="sl-icon-check text-primary m-r-15"></i> Tons of Features and Elements available here</li>
+                                    </ul>
+                                   <a href="../development/core-banking-software.php#tf-contact" class="btn  btn-md btn-arrow fronline"><span>Free Online Demo<i class="ti-arrow-right"></i></span> </a>
+								    </div>
+
+                                <div class="col-lg-5">
+<img data-animation="animated fadeInRight" class="img-responsive" src="images/slider/websoftbank.png" alt="slider1" />                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+             
+                <div class="carousel-item">
+                   <img src="images/slider/slider-bank.jpg" alt="Microfinance Software" class="slide-image" />
+                   
+                    <div class="slide-text">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-9 col-lg-7">
+                                   
+                                  <br />
+                                    <h2 data-animation="animated flipInX" class="title font-bold m-0 p-b-30"> Microfinance Software</h2>
+                                   
+                                     <ul class="p-0 m-b-40 hidden-sm-down" data-animation="animated fadeInUp">
+                                        <li><i class="sl-icon-check text-primary m-r-15"></i> Websoftex providing complete and customized Finance software Solutions to <br />&emsp;&emsp;NBFC Company, Finance Company, Money Lender, jewelry shop and Pawn <br />&emsp;&emsp;Broker.</li>
+                                    </ul>
+                                   
+                                   
+                                    <a class="btn  btn-md btn-arrow fronline1"  href="../development/nbfc-software.php#tf-contact"> <span>Free Online Demo <i class="ti-arrow-right"></i></span> </a>                                </div>
+                                 <div class="col-lg-5">
+<img  class="img-responsive" src="images/slider/websoftbank.png"  alt="slider2" />                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                   <img src="images/slider/slider-chit.jpg" alt="MLM Software" class="slide-image" />
+                   
+                    <div class="slide-text">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-9 col-lg-7">
+                                 
+                                  <br />
+                                    <h2 data-animation="animated flipInX" class="title font-bold m-0 p-b-30"> MLM Software</h2>
+                                  
+                                    
+                                     <ul class="p-0 m-b-40 hidden-sm-down" data-animation="animated fadeInUp">
+                                        <li><i class="sl-icon-check text-primary m-r-15"></i> websoftex MLM software used By more then <span style="font-weight:500;padding: 2px 10px;font-family:roboto;font-size:19px;background:green;border-radius:2px;">5000+ company</span> who want  <br />&emsp;&emsp; to sell their products through direct selling and Network Marketing.</li>
+                                    </ul>
+                                   
+                                   
+                                    <a class="btn  btn-md btn-arrow fronline2"  href="../development/binary-plan-mlm.php#tf-contact"> <span>Free Online Demo <i class="ti-arrow-right"></i></span> </a>                                </div>
+                                 <div class="col-lg-5">
+<img  class="img-responsive" src="images/slider/websoft-mlm.png"  alt="slider3" />                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                   <img src="images/slider/slider-crm.jpg" alt="Chit Fund Software" class="slide-image" />
+                   
+                    <div class="slide-text">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-9 col-lg-7">
+                                  
+                                  <br />
+                                    <h2 data-animation="animated flipInX" class="title font-bold m-0 p-b-30"> Chit Fund Software</h2>
+                                  
+                                    
+                                     <ul class="p-0 m-b-40 hidden-sm-down" data-animation="animated fadeInUp">
+                                        <li><i class="sl-icon-check text-primary m-r-15"></i> websoftex  Chit Fund Software used By more then <br />&emsp;&emsp;<span style="font-weight:500;padding: 2px 10px;font-family:roboto;font-size:19px;background:#efcc0c;color: #272424;border-radius:2px;">200+ chit fund company</span> and co-operative society.
+Chit Fund Software <br />&emsp;&emsp;software developed with new technology trends & also can be operated by <br />&emsp;&emsp;Mobile. </li>
+                                    </ul>
+
+
+                               
+                                   
+                                    <a class="btn  btn-md btn-arrow fronline3"  href="../development/chitfund-software.php#tf-contact"> <span>Free Online Demo <i class="ti-arrow-right"></i></span> </a>                                </div>
+                                 <div class="col-lg-5">
+<img  class="img-responsive" src="images/slider/websoftchit.png"  alt="slider4" />                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                
+               <div class="carousel-item">
+                   <img src="images/slider/slider-account.jpg" alt="Booking Software, CRM Software, Account Software" class="slide-image" />
+                   
+                    <div class="slide-text">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-9 col-lg-7">
+                                
+                                  <br />
+                                    <h2 data-animation="animated flipInX" class="title font-bold m-0 p-b-30"> Booking Software, CRM Software, <br />Account Software</h2>
+                                  
+                                     <ul class="p-0 m-b-40 hidden-sm-down" data-animation="animated fadeInUp">
+                                        <li><i class="sl-icon-check text-primary m-r-15"></i> CRM Software Development is very user friendly and the system has a simple <br />&emsp;&emsp; graphic user interface and features a logical distribution of functions. </li>
+                                    </ul>
+                                   
+                                   
+                                    <a class="btn  btn-md btn-arrow fronline4"  href="../development/crm-software.php#tf-contact"> <span>Free Online Demo <i class="ti-arrow-right"></i></span> </a>                                </div>
+                                 <div class="col-lg-5">
+<img  class="img-responsive" src="images/slider/websoft-crm.png"  alt="slider5" />                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="slider-control">
+                    <!-- Left Control -->
+                    <a class="left carousel-control-prev text-white font-14" href="#slider4" role="button" data-slide="prev"> <span class="ti-arrow-left" aria-hidden="true"></span> <b class="sr-only font-normal">Previous</b> </a>
+                    <!-- Right Control -->
+                    <a class="right carousel-control-next text-white font-14" href="#slider4" role="button" data-slide="next"> <span class="ti-arrow-right" aria-hidden="true"></span> <b class="sr-only font-normal">Next</b> </a>                </div>
+                <!-- End of Slider Control -->
+            </div>
+        </div>
+        </section>
+                </div>
+                <div class="continer">
+<div class="row" style="background-color: #f9f9f9;">
+<div class="col-md-4">
+<p style="font-size: 12px;padding-left: 20px;text-align: justify;font-weight: bold;padding-top:5px;"><a href="http://domain.websoftex.com/" target="blank" style="color: #018ff1;">Register Transfer Renew your website with us. You can choose .com <br>.in .net .org .info .biz from 250+ TLD's Available</a></p>
+<h2 style="font-size:16px;padding-left:20px;margin-bottom: 0px;font-weight: 700;"><a href="http://domain.websoftex.com/" target="blank" style="color: #f03d03;"><blink>Book or check availability Your Domain Now</blink></a></h2>
+
+</div>
+<div class="col-md-4">
+
+</div>
+<div class="col-md-4">
+
+</div>
+</div>
+</div>
+             
+                <div class="spacer feature22">
+                    <div class="container">
+                        <!-- Row -->
+                        <div class="row justify-content-center">
+                            <div class="col-md-8 text-center">
+                                <h2 class="title borbot">
+                                    Welcome To
+                                    <br />
+                                    <span style="color: #0995f8;">Websoftex Software Solutions Pvt. Ltd.</span></h2>
+									
+									 <h2 class="title font-medium botline borbot">
+                                    About <span class="text-color"> Us</span></h2>
+                            </div>
+                        </div>
+                        <br />
+                        <!-- Row -->
+                        <div class="row wrap-feature-22">
+                            <!-- Column -->
+                            <div class="col-lg-6" data-aos1="flip-up" data-aos-duration="1200">
+                                <img src="images/features/img1.jpg" class="rounded img-shadow img-responsivee" alt="websoftex" />                            </div>
+                            <!-- Column -->
+                            <div class="col-lg-6">
+                                <div class="text-box">
+                                   <!-- <small class="text-danger-gradiant font-medium">Make your site in No-Time</small>-->
+                                   <!-- <h3 class="font-light">
+                                        WrapKit helps you to <span class="font-medium">build your project</span> in record
+                                        time with fun making it.</h3>-->
+                                 
+                                    <p style="text-align: justify;">
+                                       <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> Software Solutions a Bangalore based company
+offers end-to-end software & customized Solutions and support services from past 10 Years in
+Website Designing & Development, Custom Software Development, Mobile Application Development. <br />
+                                        <br />
+                                        Our company is committed to provide Creative, Innovative, quick and  quality Software Solutions to Multi Level Marketing ( MLM ), Banking, Microfinance, Chit Fund, Account, Transportation and Real Estate sector.
+                                        <br />
+                                        <br />                                 </p>
+                                    <!--<a class="btn btn-danger-gradiant btn-md btn-arrow m-t-20" data-toggle="collapse"
+                                        href="about_us.php"><span style="color:#fff;">View More<i class="ti-arrow-right"></i></span></a>-->
+										
+										<a href="about_us.php" class="btn btn-danger-gradiant">View More</a>
+										
+										
+										
+										                                </div>
+                            </div>
+                            <!-- Column -->
+                        </div>
+                    </div>
+                </div>
+                <div class="spacer feature1">
+                    <div class="container">
+                        <!-- Row  -->
+                        <div class="row justify-content-center">
+                            <div class="col-md-7 text-center">
+                                <h2 class="title font-medium botline borbot">
+                                    Services <span class="text-color">sector we specialize in</span></h2>
+                                <!-- <div class="txt-border">
+                                </div>-->
+                            </div>
+                            <h3 class="subtitle topspace">
+                                 <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> specialize in developing software for following Services sector.</h3>
+                        </div>
+                        <!-- Row  -->
+                        <div class="row m-t-40">
+                            <!-- Column -->
+                            <div class="col-md-4 wrap-feature1-box">
+                                <div class="card" data-aos-duration="1200">
+                                    <div class="card-body text-center">
+                                        <div>
+                                            <img src="images/product-2.png" alt="Banking-Sector" class="rounded-circle"></div>
+                                        <h3 class="font-medium text-color">
+										<a href="banking-sector-service.php">
+                                            Banking Sector</a></h3>
+                                        <p class="m-t-200">
+                                             <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> offers end-to-end software & customized Solutions and support services
+                                            to Banking Sector.</p>
+                                        <br />
+                                        <div>
+                                            <img src="images/product-4.png" alt="Chit-Fund-Sector" class="rounded-circle"></div>
+                                        <h3 class="font-medium text-color">
+											<a href="chit-fund-sector-service.php">
+                                            Chit Fund Sector</a></h3>
+                                        <p class="m-t-200">
+                                             <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> is a leading Chit Fund software & customized Solutions provider in India.<br>
+											 <br><br></p>
+                                        <div>
+                                            <img src="images/product-5.png" alt="Transportation-Sector" class="rounded-circle"></div>
+                                        <h3 class="font-medium text-color">
+										<a href="transportation-sector-service.php">
+                                            Transportation Sector</a></h3>
+                                        <p class="m-t-200">
+                                            We are pioneers in developing Booking Software for Transportation Sector.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Column -->
+                            <div class="col-md-4 wrap-feature1-box">
+                                <div class="card" data-aos-duration="1200">
+                                    <div class="card-body text-center">
+                                        <!--<div class="icon-space"><i class="fa fa-mobile" aria-hidden="true"> </i></div>-->
+                                        <a href="#">
+                                            <img src="images/services-image.png" alt="services-image" class="img-responsive" /></a>                                    </div>
+                                </div>
+                            </div>
+                            <!-- Column -->
+                            <div class="col-md-4 wrap-feature1-box">
+                                <div class="card" data-aos-duration="1200">
+                                    <div class="card-body text-center">
+                                        <div>
+                                            <img src="images/product-3.png" alt="Finance-Sector" class="rounded-circle"></div>
+                                        <h3 class="font-medium text-color">
+										<a href="finance-sector-service.php">
+                                            Finance Sector</a></h3>
+                                        <p class="m-t-200">
+                                            <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> providing complete and customized software Solutions to Banks, Micro Finance
+                                            Credit Union SACCOS, Finance Company & Islamic Banks.                                        </p>
+                                        <div>
+                                            <img src="images/product-1.png" alt=" MLM-image" class="rounded-circle"></div>
+                                        <h3 class="font-medium text-color">
+										<a href="mlm-services.php">
+                                            MLM (Network Marketing)</a></h3>
+                                        <p class="m-t-200">
+                                            We are pioneer & market leaders in the field of MLM (Network Marketing) Software
+                                            & Solutions provider since 2008 in India.</p>
+                                        <div>
+                                            <img src="images/product-6.png" alt=" Real-Estate-image" class="rounded-circle"></div>
+                                        <h3 class="font-medium text-color">
+										<a href="real-estate-sector-service.php">
+                                            Real Estate Sector</a></h3>
+                                        <p class="m-t-200">
+                                             <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> providing complete and customized Software Solutions for Real Estate Sector.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+                <div class="spacer feature1">
+                    <div class="container">
+                        <!-- Row  -->
+                        <div class="row justify-content-center">
+                            <div class="col-md-7 text-center">
+                                <h2 class="title font-medium botline borbot">
+                                    OUR <span class="text-color">PRODUCTS</span></h2>
+                            </div>
+                            <div class="col-md-7">
+                                <h3 class="subtitle topspace" style="text-align: center;">
+                                    <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> pioneer & market leaders and offers end-to-end software & customized Solutions
+                                    and support services in the field of following products.</h3>
+                            </div>
+                        </div>
+                        <br />
+                        <!-- Row  -->
+                        <div class="row m-t-40">
+                            <div class="col-md-4 wrap-feature1-box">
+                                <div class="card" data-aos-duration="1200">
+                                    <div class="card-body text-center">
+                                        <a href="../development/core-banking-software.php">
+                                            <center>
+                                                <div class="icon-space">
+                                                    <i class="fa fa-university" aria-hidden="true"></i>                                                </div>
+                                            </center>
+                                            <h3 class="font-medium text-color">
+                                                Banking Software</h3>
+                                        </a>
+                                        <p class="m-t-20">
+                                             <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> Banking software used By co-operative society, multi state cooperative
+                                            society, patsanstha, Credit Union SACCOS, Islamic Banks.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Column -->
+                            <div class="col-md-4 wrap-feature1-box">
+                                <div class="card" data-aos-duration="1200">
+                                    <div class="card-body text-center">
+                                        <a href="../development/nidhi-banking-software.php">
+                                            <center>
+                                                <div class="icon-space">
+                                                    <i class="fa fa-briefcase" aria-hidden="true"></i>                                                </div>
+                                            </center>
+                                            <h3 class="font-medium text-color">
+                                                Nidhi Banking Software</h3>
+                                        </a>
+                                        <p class="m-t-20">
+                                            Nidhi Banking Software used By Nidhi Company, Producer Company, NBFC Company, Finance
+                                            Company, NGO.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Column -->
+                            <!-- Column -->
+                            <div class="col-md-4 wrap-feature1-box">
+                                <div class="card" data-aos-duration="1200">
+                                    <div class="card-body text-center">
+									 <a href="../development/nbfc-software.php">
+                                        <center>
+                                            <div class="icon-space">
+                                                <i class="fa fa-money"></i>                                            </div>
+                                        </center>
+                                        <h3 class="font-medium text-color">
+                                            Finance Software</h3>
+											</a>
+                                        <p class="m-t-20">
+                                             <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> Finance Software used By NBFC Company, Finance Company, Money Lender and
+                                            Pawn Broker.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row m-t-40">
+                            <!-- Column -->
+                            <div class="col-md-4 wrap-feature1-box">
+                                <div class="card" data-aos-duration="1200">
+                                    <div class="card-body text-center">
+                                        <a href="../development/nbfc-software.php">
+                                            <center>
+                                                <div class="icon-space">
+                                                    <i class="fa fa-money"></i>                                                </div>
+                                            </center>
+                                            <h3 class="font-medium text-color">
+                                                Microfinance Software</h3>
+                                        </a>
+                                        <p class="m-t-20">
+                                             <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> Microfinance Software used By Microfinance Company, NGO, Credit Union
+                                            SACCOS.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Column -->
+                            <div class="col-md-4 wrap-feature1-box">
+                                <div class="card" data-aos-duration="1200">
+                                    <div class="card-body text-center">
+                                        <a href="../development/gold-loan-software.php">
+                                            <center>
+                                                <div class="icon-space">
+                                                    <i class="fa fa-diamond"></i>                                                </div>
+                                            </center>
+                                            <h3 class="font-medium text-color">
+                                                Gold Loan Software</h3>
+                                        </a>
+                                        <p class="m-t-20">
+                                             <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> Gold Loan Software used By NBFC Company, Finance Company, Pawn Broker,
+                                            jewelry shop.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Column -->
+                            <div class="col-md-4 wrap-feature1-box">
+                                <div class="card" data-aos-duration="1200">
+                                    <div class="card-body text-center">
+                                        <a href="../development/auto-loan-software.php">
+                                            <center>
+                                                <div class="icon-space">
+                                                    <i class="fa fa-car" aria-hidden="true"></i>                                                </div>
+                                            </center>
+                                            <h3 class="font-medium text-color">
+                                                Auto / Vehicle Loan software</h3>
+                                        </a>
+                                        <p class="m-t-20">
+                                             <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> Auto / Vehicle Loan Software used By NBFC Company, Vehicle Loan / Finance
+                                            providers Companies, Commercial Vehicle Loan providers.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row m-t-40">
+                            <!-- Column -->
+                            <div class="col-md-4 wrap-feature1-box">
+                                <div class="card" data-aos-duration="1200">
+                                    <div class="card-body text-center">
+                                        <a href="../development/chitfund-software.php">
+                                            <center>
+                                                <div class="icon-space">
+                                                    <i class="fa fa-users"></i>                                                </div>
+                                            </center>
+                                            <h3 class="font-medium text-color">
+                                                Chit Fund Software</h3>
+                                        </a>
+                                        <p class="m-t-20">
+                                            <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> Chit Fund Software used By chit fund company and co-operative society.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Column -->
+                            <div class="col-md-4 wrap-feature1-box">
+                                <div class="card" data-aos-duration="1200">
+								
+                                    <div class="card-body text-center">
+									 <a href="https://pigmypro.com/">
+                                        <center>
+                                            <div class="icon-space">
+                                                <i class="fa fa-user" aria-hidden="true"></i>                                            </div>
+                                        </center>
+                                        <h3 class="font-medium text-color">
+                                            EMI Collection Software</h3>
+											  </a>
+                                        <p class="m-t-20">
+                                             <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> EMI Collection Software used By Chit Fund, micro finance, jewelry shop,
+                                            school & college for Fees Collection and all kind of odd even emi collections.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Column -->
+                            <div class="col-md-4 wrap-feature1-box">
+                                <div class="card" data-aos-duration="1200">
+                                    <div class="card-body text-center">
+                                        <a href="../development/nbfc-software.php">
+                                            <center>
+                                                <div class="icon-space">
+                                                    <i class="fa fa-cog" aria-hidden="true"></i>                                                </div>
+                                            </center>
+                                            <h3 class="font-medium text-color">
+                                                MLM Software</h3>
+                                        </a>
+                                        <p class="m-t-20">
+                                             <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> MLM Software used By any company who want to sell the products through
+                                            direct selling and Network Marketing.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+            </div>
+            <!--================================================================== -->
+            <!--<div data-spy="scroll" data-target=".navbar" data-offset="50">
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid" id="display-menu">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div>
+    <div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav" style="display:table-cell;">
+          <li><a href="#section1">Section 1</a></li>
+          <li><a href="#section2">Section 2</a></li>
+          <li><a href="#section3">Section 3</a></li>
+          <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Section 4 <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#section41">Section 4-1</a></li>
+              <li><a href="#section42">Section 4-2</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>    
+<div id="section1" class="container-fluid">
+<div class="col-sm-6">
+<div class="float-left">	
+  <img src="images/display-img.png" alt=""  class="img-responsive">	
+  </div>
+  </div>
+  <div class="col-sm-6">
+  <div class="float-right">
+  <h1>Section 1</h1>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  </div>
+  </div>
+</div>
+<div id="section2" class="container-fluid">
+<div class="col-sm-6">
+<div class="float-left">	
+  <img src="images/display-img.png" alt=""  class="img-responsive">	
+  </div>
+  </div>
+   <div class="col-sm-6">
+  <div class="float-right">
+  <h1>Section 2</h1>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+</div>
+</div>
+</div>
+<div id="section3" class="container-fluid">
+<div class="col-sm-6">
+<div class="float-left">	
+  <img src="images/display-img.png" alt=""  class="img-responsive">	
+  </div>
+  </div>
+  <div class="col-sm-6">
+  <div class="float-right">
+  <h1>Section 3</h1>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+</div>
+</div>
+</div>
+<div id="section41" class="container-fluid">
+<div class="col-sm-6">
+<div class="float-left">	
+  <img src="images/display-img.png" alt=""  class="img-responsive">	
+  </div>
+  </div>
+  <div class="col-sm-6">
+  <div class="float-right">
+  <h1>Section 4 Submenu 1</h1>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  </div>
+  </div>
+</div>
+<div id="section42" class="container-fluid">
+<div class="col-sm-6">
+<div class="float-left">	
+  <img src="images/display-img.png" alt=""  class="img-responsive">	
+  </div>
+  </div>
+   <div class="col-sm-6">
+  <div class="float-right">
+  <h1>Section 4 Submenu 2</h1>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+</div>
+</div>
+</div>
+	</div>	-->
+
+
+
+
+            <!-- ============================================================== -->
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-10 text-center">
+                        <h2 class="title font-medium botline borbot">
+                            Technologies <span class="text-color">we specialize in</span></h2>
+                    </div>
+                    <h3 class="subtitle text-center topspace">
+                         <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> having highly integrated team of talented engineers having breadth and
+                        depth of<br />
+                        technology expertise in following Technologies.</h3>
+                </div>
+                <img src="images/technologies/abttech1.png" class="tech" alt="adobe-image">
+                <img src="images/technologies/abttech2.png" class="tech" alt="html-image">
+                <img src="images/technologies/abttech3.png" class="tech" alt="css-image">
+                <img src="images/technologies/abttech4.png" class="tech" alt="b-image">
+                <img src="images/technologies/abttech5.png" class="tech" alt="js-image">
+                <img src="images/technologies/abttech6.png" class="tech" alt=".net-image">
+                <img src="images/technologies/abttech7.png" class="tech" alt="sql-image">
+                <img src="images/technologies/abttech8.png" class="tech" alt="product-image">
+                <img src="images/technologies/android.png" class="tech" alt="android-image">
+                <img src="images/technologies/bigdata.png" class="tech" alt="bigdata-image">
+                <img src="images/technologies/gps-technology.png" class="tech" alt="gps-technology-image">
+                <img src="images/technologies/ios.png" class="tech" alt="ios-image">
+                <img src="images/technologies/push-notifications.png" class="tech" alt="push-notifications-image">
+                <img src="images/technologies/abttech9.png" class="tech" alt="product-image">
+                <img src="images/technologies/google-map-api.png" class="tech" alt="google-map-api-image">            </div>
+            <br />
+            <br />
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-10 text-center">
+                        <h2 class="title font-medium botline borbot">
+                            Our <span class="text-color">technology partners</span></h2>
+                    </div>
+                    <h3 class="subtitle text-center topspace">
+                        As a trusted cloud computing and database solutions advisor,  <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> continuously
+                        anticipates technology trends to carefully discern which ones will move our customers
+                        forward on their business journeys.</h3>
+                </div>
+                <div class="row">
+                    <div class="col-lg-1">                    </div>
+                    <div class="col-lg-2 col-xss-6">
+                        <img src="images/technologies/websoftex-godaddy.png" class="tech" alt="godaddy-image" />                    </div>
+                    <div class="col-lg-2 col-xss-6">
+                        <img src="images/technologies/websoftex-aws.png" class="tech" alt="aws-image" />                    </div>
+                    <div class="col-lg-2 col-xss-6">
+                        <img src="images/technologies/websoftex-microsoft.png" class="tech" alt="microsoft-image" />                    </div>
+                    <div class="col-lg-2 col-xss-6">
+                        <img src="images/technologies/google-cloud.png" class="tech" alt="google-cloud-image">                    </div>
+                    <div class="col-lg-2 col-xss-6">
+                        <img src="images/technologies/microsoft.png" class="tech" alt="microsoft-image">                    </div>
+                    <!-- <img src="images/technologies/websoftex-ssl.png" class="tech" alt="product-image">-->
+                </div>
+            </div>
+            <br />
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-7 text-center">
+                        <h2 class="title font-medium botline borbot topspace">
+                            Our <span class="text-color">footprints</span></h2>
+                    </div>
+                    <h3 class="subtitle text-center">
+                         <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> extending its footprints in following place on the World.</h3>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-md-2 col-xss-6 fp">
+                        <a href="http://websoftex.com/nepal/">
+                            <img src="images/technologies/Nepal.png" class="tech" alt="Nepal-image"><br />
+                            <p class="text-center">
+                                Nepal</p>
+                        </a>                    </div>
+                    <div class="col-md-2 col-xss-6 fp">
+                        <a href="http://websoftex.com/bangladesh/">
+                            <img src="images/technologies/Bangladesh.png" class="tech" alt="Bangladesh-image"><p class="text-center" >
+                                Bangladesh</p>
+                        </a>                    </div>
+                    <div class="col-md-2 col-xss-6 fp">
+                        <a href="http://websoftex.com/sri-lanka/">
+                            <img src="images/technologies/SriLanka.png" class="tech" alt="SriLanka-image"><p class="text-center">
+                                Sri Lanka</p>
+                        </a>                    </div>
+                    <div class="col-md-2 col-xss-6 fp">
+                        <a href="http://websoftex.com/nigeria/">
+                            <img src="images/technologies/Nigeria.png" class="tech" alt="Nigeria-image"><p class="text-center">
+                                Nigeria</p>
+                        </a>                    </div>
+                    <div class="col-md-2 col-xss-6 fp">
+                        <a href="http://websoftex.com/botswana/">
+                            <img src="images/technologies/Botswana.png" class="tech" alt="Botswana-image"><p class="text-center">
+                                Botswana</p>
+                        </a>                    </div>
+                    <div class="col-md-2 col-xss-6 fp">
+                        <a href="http://websoftex.com/ghana/">
+                            <img src="images/technologies/ghana.png" class="tech" alt="ghana-image"><p>
+                                ghana</p>
+                        </a>                    </div>
+                    <!-- <div class="col-md-5"></div>
+                             <div class="col-md-2 fp">
+                            <a href="http://websoftex.com/kenya/"><img src="images/technologies/Kenya.png" class="tech" alt="product-image"><p>Kenya</p></a>
+                            </div>
+                             <div class="col-md-5"></div>-->
+                </div>
+            </div>
+            <div class="testimonial1 spacer ">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-md-7 text-center">
+                            <h2 class="title font-medium botline borbot">
+                                What <span class="text-color">People Say</span></h2>
+                        </div>
+                        <h3 class="subtitle text-center topspace">
+                            You can relay on our amazing features list and also our customer services will be
+                            great experience<br />
+                            for you without doubt and in no-time</h3>
+                    </div>
+                </div>
+                <br />
+                <!-- Row  -->
+                <div class="container" id="testimon">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="testimonial">
+                                <p class="description">
+                                    <b>Their Banking software has made a significant different to our business. </b>
+                                    We’ve seen a 200% growth and managed our banking Operation efficiently – but I’d
+                                    always like to see more!                                </p>
+                                <div class="testimonial-content">
+                                    <h3 class="title">
+                                        <a href="#nidhi-testimonial" style="border: 1px solid #0995f8; border-radius: 50%; padding: 4px 5px 5px 11px;">
+                                           <i class="fa fa-play" ></i> </a>
+                                          Swastik Pragathi Co-Operative Ltd,<br />
+                                      </h3>
+                                      <br />
+                                       <p style="padding-left: 40px;">
+                                       <a target="_blank" href="http://swastikpragathi.in/" >
+                                            www.swastikpragathi.in</a>
+                                           </p> 
+                                    <!--<div class="pic">
+                                      
+                                        <img src="images/swastik-logo.png" style="margin-top: -35px;" alt="Swastik" class="img-circle" />  
+                                        
+                                        
+                                                                          </div>-->
+                                                                          <br />
+                                    <p class="testi">
+                                        <a href="banking-testimonials.php">View More <i class="fa fa-angle-double-right"></i>                                        </a>                                    </p>
+                                </div>
+                            </div>
+                            <div id="nidhi-testimonial" class="overlay">
+                                <div class="popup">
+                                    <a class="close" href="#testimon">&times;</a>
+                                    <div class="content">
+                                        <iframe width="525" height="304" src="https://www.youtube.com/embed/LkAhYbhfpLU"
+                                            frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="testimonial">
+                                <p class="description">
+                                    &emsp;We've been using websoftex Nidhi softeware past 2 years, and i have to say
+                                    that it has tranformed the way we do business.&emsp;                                </p>
+                                <div class="testimonial-content">
+                                    <h3 class="title">
+                                        <a style="border: 1px solid #0995f8; border-radius: 50%; padding: 4px 5px 5px 11px;" href="#banking-testimonial">
+                                            <i class="fa fa-play"></i></a>CHAKRAVARTHI DHANA SURAKSHA NIDHI LTD,<br />
+                                        
+                                        <!--<span style="font-size: 13px;"><a href="http://cdsnl.in" target="_blank">www.cdsnl.in</a></span>--></h3>
+                                   <!-- <div class="pic">
+                                        <img src="images/testimonial3.png" style="margin-top: -35px;" alt="Chakravarthi" />                                    </div>-->
+                                        <br />
+                                         <p style="padding-left: 40px;">
+                                       <a href="http://cdsnl.in" target="_blank">
+                                            www.cdsnl.in</a></p>
+                                            <br />
+                                    <p class="testi">
+                                        <a href="nidhi-testimonials.php">View More <i class="fa fa-angle-double-right"></i>                                        </a>                                    </p>
+                                </div>
+                            </div>
+                            <div id="banking-testimonial" class="overlay">
+                                <div class="popup">
+                                    <a class="close" href="#testimon">&times;</a>
+                                    <div class="content">
+                                        <iframe width="525" height="304" src="https://www.youtube.com/embed/uhqIR9iE4gU"
+                                            frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="testimonial">
+                                <p class="description">
+                                    To, the authority of  <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> software solution pvt ltd.... personally I m thankfully to your support system.....I hv no word how to explain ...... whatever.... yours - NM Zolfukkar Barbhuiya, CEO of Holy Life TCCS Ltd    </p>
+                                <div class="testimonial-content">
+                                    <h3 class="title">
+                                        <a style="border: 1px solid #0995f8; border-radius: 50%; padding:4px 5px 5px 11px;" href="#Cbanking">
+                                            <i class="fa fa-play"></i></a>HOLY LIFE THRIFT & CREDITS  COOPERATIVE <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SOCIETY LTD,<br />
+                                        <!--<span>Managing Director</span><br />-->
+                                       <!-- <span style="font-size: 13px;"><a href="http://holylife.in/" target="_blank">
+                                            www.holylife.in</a></span>--></h3>
+                                    <!--<div class="pic">
+                                        <img src="images/testimonial4.png" style="margin-top: -35px;" alt="HOLY LIFE " />                                    </div>-->
+                                         <p style="padding-left: 40px;">
+                                       <a href="http://holylife.in/" target="_blank">
+                                            www.holylife.in</a></p>
+                                        <br />
+                                    <p class="testi">
+                                        <a href="banking-testimonials.php">View More <i class="fa fa-angle-double-right"></i>                                        </a>                                    </p>
+                                </div>
+                            </div>
+                            <div id="Cbanking" class="overlay">
+                                <div class="popup">
+                                    <a class="close" href="#testimon">&times;</a>
+                                    <div class="content">
+                                        <iframe width="525" height="304" src="https://www.youtube.com/embed/ZMweCIDQ9kQ"
+                                            frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="testimonial">
+                                <p class="description">
+                                     Their Banking software has made a significant different to our business. We’ve seen
+                                    a 200% growth and managed our banking Operation efficiently – but I’d always like
+                                    to see more!  <br /> <br />                            </p>
+                                <div class="testimonial-content">
+                                    <h3 class="title">
+                                        <a style="border: 1px solid #0995f8; border-radius: 50%; padding: 4px 5px 5px 11px;" href="#chittestimonial">
+                                            <i class="fa fa-play"></i></a>YL Chits Private Limited,<br />
+                                        <!--<span>Managing Director</span><br />-->
+                                       <!-- <span style="font-size: 13px;"><a href="http://ylchits.com" target="_blank">www.ylchits.com</a></span>--></h3>
+                                    <!--<div class="pic">
+                                        <img src="images/testimonial5.png" style="margin-top: -35px;" alt="YL Chits" />                                    </div>-->
+                                        <br />
+                                         <p style="padding-left: 40px;">
+                                       <a href="http://ylchits.com" target="_blank">
+                                           www.ylchits.com</a></p>
+                                            <br />
+                                    <p class="testi">
+                                        <a href="chitfund-testimonials.php">View More <i class="fa fa-angle-double-right"></i>                                        </a>                                    </p>
+                                </div>
+                            </div>
+                            <div id="chittestimonial" class="overlay">
+                                <div class="popup">
+                                    <a class="close" href="#testimon">&times;</a>
+                                    <div class="content">
+                                        <iframe width="525" height="304" src="https://www.youtube.com/embed/PMtijwYf7AA"
+                                            frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+<div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-7 text-center">
+                        <h2 class="title font-medium botline borbot topspace">
+                            We are<span class="text-color"> Member </span></h2>
+                    </div>
+                    <!--<h3 class="subtitle text-center">
+                         <b style="color: #0296f8;font-weight: 700;">Web<span style="color: #006eba;">softex</span></b> extending its footprints in following place on the World.</h3>
+              -->
+  </div>
+                <br />
+                <div class="row">
+                    <div class="col-md-12 col-xss-6 fp">
+                        <a href="legal_documents.php#nasscom">
+                            <img src="images/Nasscom.png" style="width:auto;" class="tech" alt="Nasscomm"><br />
+                           
+                        </a>                    </div>
+                    <!--<div class="col-md-2 col-xss-6 fp">
+                        <a href="http://websoftex.com/bangladesh/">
+                            <img src="images/technologies/Bangladesh.png" class="tech" alt="Bangladesh-image"><p class="text-center" >
+                                Bangladesh</p>
+                        </a>                    </div>
+                    <div class="col-md-2 col-xss-6 fp">
+                        <a href="http://websoftex.com/sri-lanka/">
+                            <img src="images/technologies/SriLanka.png" class="tech" alt="SriLanka-image"><p class="text-center">
+                                Sri Lanka</p>
+                        </a>                    </div>
+                    <div class="col-md-2 col-xss-6 fp">
+                        <a href="http://websoftex.com/nigeria/">
+                            <img src="images/technologies/Nigeria.png" class="tech" alt="Nigeria-image"><p class="text-center">
+                                Nigeria</p>
+                        </a>                    </div>
+                    <div class="col-md-2 col-xss-6 fp">
+                        <a href="http://websoftex.com/botswana">
+                            <img src="images/technologies/Botswana.png" class="tech" alt="Botswana-image"><p class="text-center">
+                                Botswana</p>
+                        </a>                    </div>
+                    <div class="col-md-2 col-xss-6 fp">
+                        <a href="http://websoftex.com/ghana/">
+                            <img src="images/technologies/ghana.png" class="tech" alt="ghana-image"><p>
+                                ghana</p>
+                        </a>                    </div>-->
+                    <!-- <div class="col-md-5"></div>
+                             <div class="col-md-2 fp">
+                            <a href="http://websoftex.com/kenya/"><img src="images/technologies/Kenya.png" class="tech" alt="product-image"><p>Kenya</p></a>
+                            </div>
+                             <div class="col-md-5"></div>-->
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   <!-- <div class="row">
+                        <div class="col-md-6">
+                            <div class="testimonial">
+                                <p class="description">
+                                    To, the authority of websoftext software solution pvt ltd.... personally I m thankfully to your support system.....I hv no word how to explain ...... whatever.... yours - NM Zolfukkar Barbhuiya, CEO of Holy Life TCCS Ltd                               </p>
+                                <div class="testimonial-content">
+                                    <h3 class="title">
+                                        <a style="border: 1px solid #0995f8; border-radius: 18%; padding: 1px 10px;" href="#CO-OPERATIVE">
+                                            <i class="fa fa-play"></i></a> HOLY LIFE THRIFT & CREDIT <br> CO-OPERATIVE SOCIETY LTD,<br />
+                                        <span>Managing Director</span><br />
+                                        <span style="font-size: 13px;"><a href="http://holylife.in/">www.holylife.in</a></span></h3>
+                                    <div class="pic">
+                                        <img src="images/testimonial.png" style="margin-top: -35px;" />                                    </div>
+                                    <p class="testi">
+                                        <a href="chitfund-testimonials.html">View More <i class="fa fa-angle-double-right"></i>                                        </a>                                    </p>
+                                </div>
+                            </div>
+                            <div id="#CO-OPERATIVE" class="overlay">
+                                <div class="popup">
+                                    <a class="close" href="#testimon">&times;</a>
+                                    <div class="content">
+								
+                                        <iframe width="525" height="304" src="https://www.youtube.com/embed/ZMweCIDQ9kQ"
+                                            frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                       <div class="col-md-6">
+                            <div class="testimonial">
+                                <p class="description">
+                                    Their Banking software has made a significant different to our business. We’ve seen
+                                    a 200% growth and managed our banking Operation efficiently – but I’d always like
+                                    to see more!                                </p>
+                                <div class="testimonial-content">
+                                    <h3 class="title">
+                                        <a style="border: 1px solid #0995f8; border-radius: 18%; padding: 1px 10px;" href="#CHIT">
+                                            <i class="fa fa-play"></i></a>YL Chits Private Limited,<br />
+                                        <span>Managing Director</span><br />
+                                        <span style="font-size: 13px;"><a href="http://ylchits.com/">www.ylchits.com</a></span></h3>
+                                    <div class="pic">
+                                        <img src="images/testimonial.png" style="margin-top: -35px;" />                                    </div>
+                                    <p class="testi">
+                                        <a href="chitfund-testimonials.html">View More <i class="fa fa-angle-double-right"></i>                                        </a>                                    </p>
+                                </div>
+                            </div>
+                            <div id="CHIT" class="overlay">
+                                <div class="popup">
+                                    <a class="close" href="#testimon">&times;</a>
+                                    <div class="content">
+                                        <iframe width="525" height="304" src="https://www.youtube.com/embed/PMtijwYf7AA"
+                                            frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+            </div>-->
+            <!-- ============================================================== -->
+            <!--<div class="spacer feature1">
+                <div class="container">
+                  
+                    <div class="row justify-content-center">
+                        <div class="col-md-7 text-center">
+                            <h2 class="title font-medium">
+                                OUR <span class="text-color">TEAM</span></h2>
+                            <div class="txt-border">
+                            </div>
+                            <h6 class="subtitle">
+                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h6>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="thumbnail">
+                                <div class="caption">
+                                    <h4>
+                                        Thumbnail Headline</h4>
+                                    <p>
+                                        short thumbnail description</p>
+                                    <p>
+                                    </p>
+                                </div>
+                                <img src="images/features/1.jpg">
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="thumbnail">
+                                <div class="caption">
+                                    <h4>
+                                        Thumbnail Headline</h4>
+                                    <p>
+                                        short thumbnail description</p>
+                                    <p>
+                                    </p>
+                                </div>
+                                <img src="images/features/1.jpg">
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="thumbnail">
+                                <div class="caption">
+                                    <h4>
+                                        Thumbnail Headline</h4>
+                                    <p>
+                                        short thumbnail description</p>
+                                    <p>
+                                    </p>
+                                </div>
+                                <img src="images/features/1.jpg">
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="thumbnail">
+                                <div class="caption">
+                                    <h4>
+                                        Thumbnail Headline</h4>
+                                    <p>
+                                        short thumbnail description</p>
+                                    <p>
+                                    </p>
+                                </div>
+                                <img src="images/features/1.jpg">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>-->
+        </div>
+    </div>
+    <!-- /.container -->
+    <!-- ============================================================== -->
+    <!--<div class="theme-cards spacer bg-light">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-md-7 text-center">
+						
+                                <h2 class="title font-medium">Causes where need your help</h2>
+                                <h6 class="subtitle">You can relay on our amazing features list and also our customer services will be great experience for you without doubt and in no-time</h6>
+                            </div>
+                        </div>
+						
+                        <!-- Row  -->
+    <!--<div class="owl-carousel owl-theme tcards m-t-40">
+                            <!-- item -->
+    <!--<div class="item" data-aos="fade-right">
+                                <div class="card card-shadow" data-aos="flip-left" data-aos-duration="1200">
+                                    <a href="#"><img class="card-img-top" src="images/features/1.jpg" alt="wrappixel kit" /></a>
+                                    <div class="card-body p-30">
+                                        <h5 class="font-bold">Give medical related help for african children</h5>
+                                        <p class="m-t-20">You can relay on our amazing features list and also our customer services will be great experience.</p>
+                                        <div class="progress m-t-30">
+                                            <div class="progress-bar bg-success-gradiant" role="progressbar" style="width: 80%; height: 5px;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-6 b-r">
+                                                <p class="text-uppercase font-12 m-b-0 m-t-15">Raised</p>
+                                                <h3>$65,360</h3>
+                                            </div>
+                                            <div class="col-6">
+                                                <p class="text-uppercase font-12 m-b-0 m-t-15">Goal</p>
+                                                <h3>$124,500</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- item -->
+    <!-- item -->
+    <!--<div class="item" data-aos="fade-up">
+                                <div class="card card-shadow" data-aos="flip-up" data-aos-duration="1200">
+                                    <a href="#"><img class="card-img-top" src="images/features/2.jpg" alt="wrappixel kit" /></a>
+                                    <div class="card-body p-30">
+                                        <h5 class="font-bold">Give small bunch of colors to little kids, joy of colors</h5>
+                                        <p class="m-t-20">You can relay on our amazing features list and also our customer services will be great experience.</p>
+                                        <div class="progress m-t-30">
+                                            <div class="progress-bar bg-success-gradiant" role="progressbar" style="width: 80%; height: 5px;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-6 b-r">
+                                                <p class="text-uppercase font-12 m-b-0 m-t-15">Raised</p>
+                                                <h3>$65,360</h3>
+                                            </div>
+                                            <div class="col-6">
+                                                <p class="text-uppercase font-12 m-b-0 m-t-15">Goal</p>
+                                                <h3>$124,500</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- item -->
+    <!-- item -->
+    <!--<div class="item" data-aos="fade-left">
+                                <div class="card card-shadow" data-aos="flip-right" data-aos-duration="1200">
+                                    <a href="#"><img class="card-img-top" src="images/features/3.jpg" alt="wrappixel kit" /></a>
+                                    <div class="card-body p-30">
+                                        <h5 class="font-bold">Send poor children to school to become superhero</h5>
+                                        <p class="m-t-20">You can relay on our amazing features list and also our customer services will be great experience.</p>
+                                        <div class="progress m-t-30">
+                                            <div class="progress-bar bg-success-gradiant" role="progressbar" style="width: 80%; height: 5px;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-6 b-r">
+                                                <p class="text-uppercase font-12 m-b-0 m-t-15">Raised</p>
+                                                <h3>$65,360</h3>
+                                            </div>
+                                            <div class="col-6">
+                                                <p class="text-uppercase font-12 m-b-0 m-t-15">Goal</p>
+                                                <h3>$124,500</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- item -->
+    <!--</div>
+                    </div>
+                </div>-->
+    <!-- ============================================================== -->
+    <!-- End theme-cards  -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- Blog home 2  -->
+    <!-- ============================================================== -->
+    <!--<div class="blog-home2 spacer">
+                    <div class="container">
+                        <!-- Row  -->
+    <!--<div class="row justify-content-center">
+                            <!-- Column -->
+    <!--<div class="col-md-8 text-center">
+                                <h2 class="title font-medium">Upcoming Events Near You</h2>
+                                <h6 class="subtitle">You can relay on our amazing features list and also our customer services will be great experience for you without doubt and in no-time</h6>
+                            </div>
+                            <!-- Column -->
+    <!-- Column -->
+    <!--</div>
+                        <div class="row m-t-40">
+                            <!-- Column -->
+    <!--<div class="col-md-4">
+                                <div class="card" data-aos="flip-left" data-aos-duration="1200">
+                                    <a href="#"><img class="card-img-top" src="images/blog/3.jpg" alt="wrappixel kit"></a>
+                                    <div class="date-pos bg-success-gradiant">Oct<span>23</span></div>
+                                    <h5 class="font-medium m-t-30"><a href="#" class="link">You should have eagle’s eye on new trends and techonogies</a></h5>
+                                    <p class="m-t-20">Business Park, Opp. Corns Sam Restaurant, New Yoark, US</p>
+                                    <a href="#" class="linking text-danger font-medium m-t-10">Learn More <i class="ti-arrow-right"></i></a>                                </div>
+                            </div>
+                            <!-- Column -->
+    <!--<div class="col-md-4">
+                                <div class="card" data-aos="flip-up" data-aos-duration="1200">
+                                    <a href="#"><img class="card-img-top" src="images/blog/2.jpg" alt="wrappixel kit"></a>
+                                    <div class="date-pos bg-success-gradiant">Oct<span>23</span></div>
+                                    <h5 class="font-medium m-t-30"><a href="#" class="link">New Seminar on Newest Food Recipe from World’s Best</a></h5>
+                                    <p class="m-t-20">Business Park, Opp. Corns Sam Restaurant, New Yoark, US</p>
+                                    <a href="#" class="linking text-danger font-medium m-t-10">Learn More <i class="ti-arrow-right"></i></a>                                </div>
+                            </div>
+                            <!-- Column -->
+    <!--<div class="col-md-4">
+                                <div class="card" data-aos="flip-right" data-aos-duration="1200">
+                                    <a href="#"><img class="card-img-top" src="images/blog/1.jpg" alt="wrappixel kit"></a>
+                                    <div class="date-pos bg-success-gradiant">Oct<span>23</span></div>
+                                    <h5 class="font-medium m-t-30"><a href="#" class="link">Learn from small things to create something bigger.</a></h5>
+                                    <p class="m-t-20">Business Park, Opp. Corns Sam Restaurant, New Yoark, US</p>
+                                    <a href="#" class="linking text-danger font-medium m-t-10">Learn More <i class="ti-arrow-right"></i></a>                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>-->
+    <!-- ============================================================== -->
+    <!-- End Blog home 2  -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- Feature 23 -->
+    <!-- ============================================================== -->
+    <!--<div class="spacer feature23 wrap-feature23-box" style="background-image:url(images/features/img1.jpg)">
+                    <div class="container">
+                        <!-- Row -->
+    <!--<div class="row justify-content-center">
+                            <div class="col-lg-5 col-md-8 text-center both-space">
+                                <div class="card" data-aos="flip-left" data-aos-duration="1200">
+                                    <div class="card-body">
+                                        <div class="text-box">
+                                            <h3 class="title font-bold">Child needs to go immediate medical surgery, Help.</h3>
+                                            <h6 class="subtitle">You can relay on our amazing features list and also our customer services will be great experience for you without doubt</h6> <a class="btn btn-success-gradiant btn-md btn-arrow m-t-20" href="#"><span>Urgent Donate<i class="ti-arrow-right"></i></span></a> </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Column -->
+    <!--</div>
+                    </div>
+                </div>-->
+    <!-- ============================================================== -->
+    <!-- End Feature 23 -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- Blog home 6  -->
+    <!-- ============================================================== -->
+    <!--<div class="blog-home6 spacer">
+                    <div class="container">
+                        <div class="row">
+                            <!-- column  -->
+    <!--<div class="col-lg-5">
+                                <h6 class="text-success text-uppercase">newsletter</h6>
+                                <h2 class="title font-medium">Stay informed about new and upcoming causes</h2>
+                                <h6 class="subtitle m-t-30">It has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</h6>
+                                <form class="m-t-30">
+                                    <div class="form-group">
+                                        <input class="form-control" type="text" placeholder="Your Name" />
+                                    </div>
+                                    <div class="form-group">
+                                        <input class="form-control" type="email" placeholder="Email Address" />
+                                    </div>
+                                    <div class="form-group">
+                                        <button class="btn btn-danger-gradiant btn-block btn-md text-uppercase ">Subscribe </button>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="custom-control custom-checkbox mb-2 mr-sm-2 mb-sm-0">
+                                            <input type="checkbox" class="custom-control-input">
+                                            <span class="custom-control-indicator"></span>
+                                            <span class="custom-control-description">I have read and agree to the <a href="#" class="link">terms and conditions</a></span>                                        </label>
+                                    </div>
+                                </form>
+                            </div>
+                            <!-- column  -->
+    <!--<div class="col-lg-6 ml-auto">
+                                <div class="d-flex b-b p-b-20 no-block font-medium text-uppercase">
+                                    <h6 class="no-shrink font-medium align-self-center m-b-0">Latest News At WrapKit</h6>
+                                    <a class="ml-auto text-danger align-self-center" href="#">View All</a>                                </div>
+                                <div class="row blog-row m-t-40">
+                                    <div class="col-md-4">
+                                        <a href="#"><img src="images/blog/img12.jpg" alt="wrapkit" class="img-responsive" /></a>                                    </div>
+                                    <div class="col-md-8">
+                                        <h5><a href="#">The Universe is all of time and space and its contents.</a></h5>
+                                        <p>by <a href="#">Mark Freeman</a> / 23 May 2017</p>
+                                    </div>
+                                </div>
+                                <div class="row blog-row m-t-30">
+                                    <div class="col-md-4">
+                                        <a href="#"><img src="images/blog/img13.jpg" alt="wrapkit" class="img-responsive" /></a>                                    </div>
+                                    <div class="col-md-8">
+                                        <h5><a href="#">Pellentesque mollis eros quis massa interdum porta et vel nisi. Duis vel viverra quamam...</a></h5>
+                                        <p>by <a href="#">Mark Freeman</a> / 23 May 2017</p>
+                                    </div>
+                                </div>
+                                <div class="row blog-row m-t-30">
+                                    <div class="col-md-4">
+                                        <a href="#"><img src="images/blog/img14.jpg" alt="wrapkit" class="img-responsive" /></a>                                    </div>
+                                    <div class="col-md-8">
+                                        <h5><a href="#">Duis vel viverra quamam molesvulputate femy contenteu.</a></h5>
+                                        <p>by <a href="#">Mark Freeman</a> / 23 May 2017</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- column  -->
+    <!--</div>
+                    </div>
+                </div>-->
+    <!-- ============================================================== -->
+    <!-- Blog home 6  -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- Testimonial 1  -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- End Testimonial 1  -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- Feature 25 -->
+    <!-- ============================================================== -->
+    <!--<div class="spacer bg-light feature24" style="background-image:url(images/features/call-acti-bg.jpg)">
+                    <div class="container">
+                        <!-- Row -->
+    <!--<div class="row justify-content-center">
+                            <div class="col-md-7 text-center">
+                                <h2 class="title text-white font-medium">Become a Volunteer</h2>
+                                <p class="font-light text-white op-8">Lorem ipsum dolor sit amet, consectetur adipiscelit. Nam malesu dolor sit amet, consectetur adipiscelit. consectetur adipiscelit. Nam malesu dolor.</p>
+                                <a class="btn btn-danger-gradiant btn-md btn-arrow m-t-20 text-uppercase" href="#"><span>join us now<i class="ti-arrow-right"></i></span></a>                            </div>
+                        </div>
+                        <!-- Row -->
+    <!--</div>
+                </div>-->
+    <!-- ============================================================== -->
+    <!-- End Feature 25 -->
+    <!-- ============================================================== -->
+    <!--</div>-->
+    <!-- ============================================================== -->
+    <!-- End Container fluid  -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- footer 1  -->
+    <!-- ============================================================== -->
+    <div class="footer1 font-14 footer-background-color">
+        <!-- Row  -->
+        <div class="f1-middle">
+            <div class="container">
+                <div class="row">
+                    <!-- Column -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="d-flex no-block m-b-10 m-t-20">
+                            <div style="color: #fff;" class="display-7 m-r-20 align-self-top">
+                                <i class="icon-Location-2"></i>                            </div>
+                            <div class="info">
+                                <span class="font-medium text-dark db m-t-5">Websoftex Software Solutions Pvt. Ltd.</span>
+                                <br />
+                                <p style="color: #fff;">
+                                    #240/A, 3rd Cross,
+                                    <br />
+                                    Gokula 1st Stage,<br />
+                                    1st Phase Mathikere,
+                                    <br />
+                                    Bangalore - 560 054, Karnataka, India.                                </p>
+                            </div>
+                        </div>
+                        <div class="d-flex no-block m-b-10">
+                            <div class="display-7 m-r-20 align-self-top">
+                                <i class="icon-Phone-2"></i>                            </div>
+                            <div class="info">
+                                <span class="font-medium text-dark db  m-t-5"><a style="color:#fff;" href="tel:9886461360" data-rel="external" target="blank" >+91 - 9886461360</a></span>                            </div>
+                        </div>
+                        <div class="d-flex no-block m-b-30" style="margin-bottom: 10px;">
+                            <div class="display-7 m-r-20 align-self-top">
+                                <i class="icon-Mail"></i>                            </div>
+                            <div class="info">
+                                <a href="mailto:info@websoftex.in" target="blank" class="font-medium text-dark db  m-t-5">info@websoftex.in</a>                            </div>
+                        </div>
+                        <div>
+                            <a href="https://www.facebook.com/web.softex.7" class="link p-101"><i class="fa fa-facebook">
+                            </i></a><a href="https://twitter.com/websoftexcom14" class="link p-101"><i class="fa fa-twitter">
+                            </i></a><a href="https://www.linkedin.com/profile/view?id=326594500&trk=nav_responsive_tab_profile_pic"
+                                class="link p-101"><i class="fa fa-linkedin"></i></a><a href="http://www.pinterest.com/websoftex7/"
+                                    class="link p-101"><i class="fa fa-pinterest"></i></a><a href="https://www.youtube.com/channel/UC37pew1RSV6spdkk7DWXXsQ"
+                                        class="link p-101"><i class="fa fa-youtube"></i></a>                        </div>
+                    </div>
+                    <!-- Column -->
+                    <!-- Column -->
+                    <div class="col-lg-6 col-md-12 m-t-5">
+                        <h6 style="border-bottom: 1px dashed white; font-size: 17px; width: 32%; padding-bottom: 4px;"
+                            class="font-medium m-t-20 text-dark">
+                            Services we Offer</h6>
+                        <ul class="general-listing two-part with-arrow m-t-10">
+                            <li><a href="mlm-services.php"><i class="fa fa-angle-right"></i>MLM Software</a></li>
+                            <li><a href="banking-sector-service.php"><i class="fa fa-angle-right"></i>Banking Software</a></li>
+                            <li><a href="development/nbfc-software.php"><i class="fa fa-angle-right"></i>Microfinance Software</a></li>
+                            <li><a href="development/chitfund-software.php"><i class="fa fa-angle-right"></i>Chit Fund Software</a></li>
+                            <li><a href="development/taxi-booking-software.php"><i class="fa fa-angle-right"></i>Booking Software</a></li>
+                            <li><a href="development/crm-software.php"><i class="fa fa-angle-right"></i>CRM Software </a></li>
+                            <li><a href="accounting-software.php"><i class="fa fa-angle-right"></i>Account Software </a></li>
+                            <li><a href="Social-Media-Marketing.php"><i class="fa fa-angle-right"></i>Other Software </a></li>
+                            <li><a href="real-estate-sector-service.php"><i class="fa fa-angle-right"></i>Real Estate Sector </a></li>
+                            <li><a href="finance-sector-service.php"><i class="fa fa-angle-right"></i>Finance Sector</a></li>
+                        </ul>
+                    </div>
+                    <!-- Column -->
+                    <div class="col-lg-2 col-md-6">
+                        <!--  <a href="#">
+                            <img src="images/footer-logo.png" alt="wrapkit" /></a>
+                        <p class="m-t-20" >
+                            <span >Websoftex Software Solutions Pvt. Ltd.</span>a Bangalore based company, extending its services in Website Designing & Development, Custom Software Development and Mobile Application Development.</p>
+                  
+                  -->
+                    </div>
+                    <!-- Column -->
+                </div>
+            </div>
+        </div>
+        <!-- Row  -->
+        <div class="f1-bottom-bar">
+            <div class="container">
+                <div class="d-flex">
+                    <div class="m-t-10 m-b-10 text-inverse font-medium">
+                        © All Rights Reserved by Websoftex Software Solutions Pvt. Ltd.</div>
+                    <div class="links ml-auto m-t-10 m-b-10">                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="https://mylivechat.com/chatinline.aspx?hccid=14401119"></script>
+
+    <a class="bt-top btn btn-circle btn-md btn-inverse" href="#top"><i class="ti-arrow-up">
+    </i></a></div>
+    </div>
+
+    <script src="assets/node_modules/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap popper Core JavaScript -->
+    <script src="assets/node_modules/popper/dist/popper.min.js"></script>
+    <script src="assets/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- This is for the animation -->
+    <script src="assets/node_modules/aos/dist/aos.js"></script>
+    <!--Custom JavaScript -->
+    <script src="js/custom.min.js"></script>
+   
+   
+    <script src="assets/node_modules/owl.carousel/dist/owl.carousel.min.js"></script>
+    <script src="assets/node_modules/jquery.touchSwipe.min.js"></script>
+    <script src="assets/node_modules/bootstrap-touch-slider/bootstrap-touch-slider.js"></script>
+  
+  
+     
+ <script>
+                    $('#slider4').bsTouchSlider();
+                    $(".carousel .carousel-inner").swipe({
+                        swipeLeft: function (event, direction, distance, duration, fingerCount) {
+                            this.parent().carousel('next');
+                        }
+    , swipeRight: function () {
+        this.parent().carousel('prev');
+    }
+    , threshold: 0
+                    });
+                </script>
+ <script>
+                    var words = document.getElementsByClassName('word');
+                    var wordArray = [];
+                    var currentWord = 0;
+
+                    words[currentWord].style.opacity = 1;
+                    for (var i = 0; i < words.length; i++) {
+                        splitLetters(words[i]);
+                    }
+
+                    function changeWord() {
+                        var cw = wordArray[currentWord];
+                        var nw = currentWord == words.length - 1 ? wordArray[0] : wordArray[currentWord + 1];
+                        for (var i = 0; i < cw.length; i++) {
+                            animateLetterOut(cw, i);
+                        }
+
+                        for (var i = 0; i < nw.length; i++) {
+                            nw[i].className = 'letter behind';
+                            nw[0].parentElement.style.opacity = 1;
+                            animateLetterIn(nw, i);
+                        }
+
+                        currentWord = (currentWord == wordArray.length - 1) ? 0 : currentWord + 1;
+                    }
+
+                    function animateLetterOut(cw, i) {
+                        setTimeout(function () {
+                            cw[i].className = 'letter out';
+                        }, i * 80);
+                    }
+
+                    function animateLetterIn(nw, i) {
+                        setTimeout(function () {
+                            nw[i].className = 'letter in';
+                        }, 340 + (i * 80));
+                    }
+
+                    function splitLetters(word) {
+                        var content = word.innerHTML;
+                        word.innerHTML = '';
+                        var letters = [];
+                        for (var i = 0; i < content.length; i++) {
+                            var letter = document.createElement('span');
+                            letter.className = 'letter';
+                            letter.innerHTML = content.charAt(i);
+                            word.appendChild(letter);
+                            letters.push(letter);
+                        }
+
+                        wordArray.push(letters);
+                    }
+
+                    changeWord();
+                    setInterval(changeWord, 4000);
+
+                </script>
+ <script type="text/javascript">
+        /*******************************/
+        // this is for the testimonial 1
+        /*******************************/
+        $('.testi1').owlCarousel({
+            loop: true,
+            margin: 30,
+            nav: false,
+            dots: true,
+            autoplay: true,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 1,
+                    nav: false
+                },
+                1170: {
+                    items: 2
+                }
+            }
+        });
+        /*******************************/
+        // this is for the testimonial 3
+        /*******************************/
+        $('.tcards').owlCarousel({
+            loop: true,
+            margin: 30,
+            center: false,
+            nav: false,
+            dots: true,
+            autoplay: true,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 1,
+                    nav: false
+                },
+                768: {
+                    items: 2
+                },
+                1170: {
+                    items: 3
+                }
+            }
+        });
+        $('#slider8').bsTouchSlider();
+        $(".carousel .carousel-inner").swipe({
+            swipeLeft: function (event, direction, distance, duration, fingerCount) {
+                this.parent().carousel('next');
+            },
+            swipeRight: function () {
+                this.parent().carousel('prev');
+            },
+            threshold: 0
+        });
+    </script>
+</body>
+</html>
